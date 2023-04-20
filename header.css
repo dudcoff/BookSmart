@@ -1,0 +1,10 @@
+.container-fluid
+{
+    background-color: #69140E;
+    height: 65px;
+    color:white;
+}
+
+.user img{
+    background-color: rgb(9, 202, 202);
+} 

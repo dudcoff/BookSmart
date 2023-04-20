@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\site\bin\Debug\net7.0\site.exe
+C:\Users\user\Desktop\site\bin\Debug\net7.0\site.deps.json
+C:\Users\user\Desktop\site\bin\Debug\net7.0\site.runtimeconfig.json
+C:\Users\user\Desktop\site\bin\Debug\net7.0\site.dll
+C:\Users\user\Desktop\site\bin\Debug\net7.0\site.pdb
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.AssemblyInfo.cs
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.dll
+C:\Users\user\Desktop\site\obj\Debug\net7.0\refint\site.dll
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.pdb
+C:\Users\user\Desktop\site\obj\Debug\net7.0\site.genruntimeconfig.cache
+C:\Users\user\Desktop\site\obj\Debug\net7.0\ref\site.dll
