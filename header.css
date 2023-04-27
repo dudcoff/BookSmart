@@ -8,3 +8,7 @@
 .user img{
     background-color: rgb(9, 202, 202);
 } 
+
+.navbar-toggler-icon{
+    color: white;
+}
